@@ -48,7 +48,7 @@ Built with **C++ (FLTK)** for performance and **Python + Playwright** for AI aut
 ### 📦 Download
 
 > **👉 [Download VisionForge ZIP](#)**
-> *(Replace with your GitHub Release / Google Drive / Dropbox link)*
+
 
 ### ⚙️ Installation
 
