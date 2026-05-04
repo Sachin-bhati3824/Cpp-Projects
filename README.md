@@ -17,6 +17,13 @@
 </div>
 
 ---
+How does it look 
+
+<img width="1258" height="719" alt="Screenshot 2026-04-09 032353" src="https://github.com/user-attachments/assets/0ce4af33-ce20-4c02-acaa-3b3d253f2d60" />
+
+---
+
+---
 
 ## What Is VisionForge?
 
